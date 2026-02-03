@@ -23,6 +23,7 @@
 - **Theme**: Yaru dark purple
 - **Optional**: SNAPS FREE!
 - **Tech Stack**: Python, Golang & Typescript
+- **My cool wallpapers folder! 21:9 and 16:9**
 
 #### ***Note:***
 *I’m aware I’m on a non-LTS Ubuntu release right now.
