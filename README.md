@@ -579,3 +579,16 @@ These are my settings and preferences. I am making the repository public so that
 ## Usefull Links
 - https://github.com/erik1066/fedora-setup-guide
 - https://github.com/devangshekhawat/Fedora-43-Post-Install-Guide
+
+GRUB_TIMEOUT=10
+GRUB_DISTRIBUTOR="$(sed 's, release .*$,,g' /etc/system-release)"
+GRUB_DEFAULT=saved
+GRUB_SAVEDEFAULT=true
+GRUB_DISABLE_SUBMENU=true
+GRUB_TERMINAL_OUTPUT="gfxterm"
+GRUB_GFXPAYLOAD_LINUX=keep
+GRUB_CMDLINE_LINUX="rhgb quiet rd.driver.blacklist=nouveau,nova_core modprobe.blacklist=nouveau,nova_core"
+GRUB_DISABLE_RECOVERY="true"
+GRUB_ENABLE_BLSCFG=true
+GRUB_THEME="/boot/grub2/themes/fedora/theme.txt"
+
