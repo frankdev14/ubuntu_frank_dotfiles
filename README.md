@@ -174,6 +174,7 @@ sudo systemctl enable --now lactd
 ```
 
 - Now I configure TLP (or auto-cpufreq/lact) with my preferred options. This section can vary depending on your hardware and system. I adapt it to my NVIDIA RTX 3080 setup for optimal power management and performance.
+- New values: 1800MHz - 160 offset
 
 <div align="center">
   <picture>
