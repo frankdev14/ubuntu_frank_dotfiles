@@ -577,6 +577,9 @@ export GTK_THEME=Yaru-purple-dark
 
 These are my settings and preferences. I am making the repository public so that everyone feels free to use it, modify it, send me PRs, etc. I will also leave the file as a sketch that I created while running commands and researching.
 
+## Future relases
+Do the same for make a dev setup in windows and fedora
+
 ## Usefull Links
 - https://github.com/erik1066/fedora-setup-guide
 - https://github.com/devangshekhawat/Fedora-43-Post-Install-Guide
